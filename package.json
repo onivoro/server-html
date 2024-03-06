@@ -26,7 +26,8 @@
         }
     },
     "onx": {
-        "platform": "server"
+        "platform": "server",
+        "module": "commonjs"
     },
     "devDependencies": {
         "@onivoro/cli": "*",
